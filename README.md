@@ -12,6 +12,8 @@ Add the following dependencies to your `Cargo.toml`:
 nannou = "0.18.0"
 nannou_audio = "0.18.0"
 ringbuf = "0.4.0"
+```
+
 
 ## To-Do
 
